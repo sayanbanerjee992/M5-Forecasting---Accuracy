@@ -1,5 +1,5 @@
 # M5-Forecasting---Accuracy
-M5 Forecasting - Accuracy is a Sales forecasting project using Machine Learning. 
+M5 Forecasting - Accuracy is a Sales forecasting project using Machine Learning. This is a Machine Learning Regression Problem.
 
 <h2> What is Sales Forecasting?</h2>
 
